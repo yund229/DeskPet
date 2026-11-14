@@ -1,0 +1,9 @@
+# 便携版 JDK 运行时(约180MB,不进仓库)
+.jdk/
+
+# 编译产物
+*.class
+
+# 系统文件
+Thumbs.db
+Desktop.ini
