@@ -31,3 +31,6 @@ Windows 下也可以把便携版 JDK 解压到项目的 `.jdk` 文件夹后，�
 - 无边框透明置顶窗口，不占用任务栏
 - 简单状态机：发呆 / 散步 / 开心 / 睡觉 / 下落 / 进食 / 打滚 / 伸懒腰 / 洗脸
 - 所有画面由 Java2D 实时绘制：渐变身体、粒子特效（爱心、星星、Zzz）、说话气泡
+
+
+- [VocabPill](https://github.com/yund229/VocabPill) - pop-up flashcards for CET-4/CET-6 words, Leitner spaced repetition, zero dependencies
